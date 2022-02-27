@@ -1,0 +1,714 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The right vvay to peace: shewing the art of over-coming one another by love : in a dialogue between a friend and his neighbour. Humbly presented to the Right Honourable the Lords and Commons in Parliament : and to the whole nation; / by their old and faithfull servant in the publick, Theodore Jennings.</title>
+            <author>Jennings, Theodore.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87568</idno>
+            <idno type="STC">Wing J671</idno>
+            <idno type="STC">Thomason E412_26</idno>
+            <idno type="STC">ESTC R204471</idno>
+            <idno type="EEBO-CITATION">99863961</idno>
+            <idno type="PROQUEST">99863961</idno>
+            <idno type="VID">161257</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87568)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161257)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E412[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The right vvay to peace: shewing the art of over-coming one another by love : in a dialogue between a friend and his neighbour. Humbly presented to the Right Honourable the Lords and Commons in Parliament : and to the whole nation; / by their old and faithfull servant in the publick, Theodore Jennings.</title>
+                  <author>Jennings, Theodore.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Annotation on Thomason copy: "Nou: 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Peace --  Religious aspects --  Christianity --  Early works to 1800.</term>
+               <term>Love --  Religious aspects --  Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161257:1" rendition="simple:additions"/>
+            <p>THE RIGHT WAY TO PEACE: ſhewing the Art of Over-coming one another by LOVE: In a Dialogue between a Friend and his Neighbour.</p>
+            <p>Humbly preſented to the Right Honourable THE <hi>LORDS</hi> and <hi>COMMONS</hi> IN PARLIAMENT: AND To the whole Nation; by their old and faith<g ref="char:EOLhyphen"/>full Servant in the Publick, <hi>THEODORE JENNINGS.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Giles Calvert.</hi> 1647</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:161257:2"/>
+            <pb n="1" facs="tcp:161257:2"/>
+            <head>THE Right way to Peace, ſhewing The Art of overcomming one another by Love, <hi>In a Dialogue between a Friend and his Neighbour.</hi>
+            </head>
+            <sp>
+               <speaker>Friend.</speaker>
+               <p>WELL, overtaken neighbour, whither away.</p>
+            </sp>
+            <sp>
+               <speaker>Neighbour,</speaker>
+               <p>I am going to beare Gods Word preached by a very <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>lous, and powerfull Preacher.</p>
+            </sp>
+            <sp>
+               <speaker>Friend.</speaker>
+               <p>I pray you ſhew me wherein his zeale and power<g ref="char:EOLhyphen"/>full preaching conſiſteth.</p>
+            </sp>
+            <sp>
+               <speaker>Neigh.</speaker>
+               <p>He deales very ſharply againſt thoſe that diſſent from him, telling us that ſuch blaſphemous Hereticks, will corrupt as who are ignorant, and ſaith, that like an ill weed, they have o<g ref="char:EOLhyphen"/>ver-run all the Land, but eſpecially the Army.</p>
+            </sp>
+            <sp>
+               <speaker>Friend.</speaker>
+               <p>Is this all his zeale, and powerfull preaching: and wherein doth he ſay thoſe Hereticks do blaſpheme?</p>
+            </sp>
+            <sp>
+               <speaker>Neigh.</speaker>
+               <p>No, he is learned, jealous, and powerfull in elegant expreſſions, ſhewing how Chriſt died for us upon the Croſſe, and hath juſtified us from our ſins, and that if we will beleeve, we ſhall be ſaved and accepted by his Mediation and Interceſ<g ref="char:EOLhyphen"/>ſion for us unto God the Father: Wherein he ſheweth us, how the blaſphemous Hereticks ſay, moreover, that they are led by the ſpirit, and that all men that ſhall be ſaved, muſt have the Spirit of God, and an inward principle of new <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight, and they
+<pb n="4" facs="tcp:161257:3"/>ſay, they are carried out no further to do, or act, any thing to God in Jeſus Chriſt, then from what they Receive into them by the Spirit, and ſay they have the mind of Chriſt, and do ther<g ref="char:EOLhyphen"/>by know and underſtand the things of God, which othe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> do, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> know; and he <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> were but zealous, and faithfull to God, and their owne <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, they would ſuppreſſe theſe blaſphemous Hereticks</p>
+            </sp>
+            <sp>
+               <speaker>Friend.</speaker>
+               <p>There are many now adayes that can ſtory out the Goſpell with very elegant expreſſions, to catch the ignorant, with the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nticing words of mans wiſdom, yet theſe do perſe<g ref="char:EOLhyphen"/>cute Gods faithfull one, with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of ſpirit: ſtirring up others to joyne with them, and are not affraid to bring r<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ling accuſations againſt them, which the Arch-angell <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not do againſt the Devill;<note place="margin">Jude 6.</note> and by this manner of teaching they rob God of his honour, and the Goſpell of its power. And unto ſuch the Apoſtle <hi>Paul</hi> ſaith, <hi>My ſpeech, and my preaching was not with the enticing (or perſw<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſible) <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>, but in demonſtration of the ſpirit, and power: <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> your faith ſhould not ſtand in the Wiſdom of men <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the power of God.</hi> And therefore Neighbour, I pity you for your ignorance, in cal<g ref="char:EOLhyphen"/>ling his bitterneſſe zeale, and his elegant expreſſion, powerfull preaching; and I pray ſuch as he is, for <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, ſub<g ref="char:EOLhyphen"/>tilty, and cruelty, in perſecuting the Saints, and leave <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to God the righteous Judge of all <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> will <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> or rebuke them.</p>
+            </sp>
+            <sp>
+               <speaker>Neigh.</speaker>
+               <p>I thank you for your plain <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> me, becauſe of my ignorance, I would <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the truth. I pray you <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> me the error of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Friend,</speaker>
+               <p>The <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is in giving Gods <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and not Goſpell names, as Believers, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and Brethren, all names ſhewing forth Gods <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in Jeſus Chriſt, and their <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> towards one another, <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi>
+               </p>
+               <p>A ſecond <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:161257:3"/>they are led by the ſpirit, and that all men that ſhall be ſaved, muſt have the Spirit of God, and an inward principle of new light. Whereas the Apoſtle <hi>Paul, Rom. 8.14.</hi> ſaith, <hi>As many as are led by the Spirit of God, they are the ſons of God.</hi> And verſ 9<g ref="char:punc">▪</g> 
+                  <hi>If any man have not the Spirit of Christ, he is none of his.</hi>
+               </p>
+               <p>Again, All Gods people muſt have an inward principle of new light, 2 <hi>Cor.</hi> 5.17. <hi>If any man be in Chriſt, he is a new creature: old things are past away, behold all things are be<g ref="char:EOLhyphen"/>come new.</hi> And if all things are become new, Gods people muſt have an inward principle of new light. Know therefore, that what we receive from the firſt <hi>Adam</hi> by generation, is old; and old things are past away. Only what we enjoy in the ſecond Adam by <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>generation <hi>is become new:</hi> So that there is no truth <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> from Gods Word, then this: that all Gods people are to have an inward principle of new light; New in Chriſt: <hi>If <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Christ, he is a new creature:</hi> And not be<g ref="char:EOLhyphen"/>come new in ſome things, but in all things; <hi>Behold, all things are become new:</hi> behold it with admiration, and pry into it be<g ref="char:EOLhyphen"/>lievingly, Thou art wholly become new, thy light is become <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> all that is in thee is new: Thou art born again,<note place="margin">John 3.36. 1 Pet. 2.2. Epheſ 4.23. 2 Sam. 16.23.</note> Thou art born of the Spirit, Thou art new born, Thou art renewed in the ſpirit of thy mind: And if not; That light which is in thee is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>: and then how great accompliſhments ſoever thou <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, of humane learning, and wiſdom, though thou ſpeakeſt as an <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, yet with <hi>A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>itophel,</hi> thou art but miſerable: And then as our Saviour ſaith,<note place="margin">Mat 6.23, &amp;c.</note> 
+                  <hi>If therefore that light that is in thee</hi> be darkneſſe, how great is that darkneſſe.</p>
+               <p>A third errour is, in his taxing ſuch of Hereſie, as ſay they are no <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> out to believe, or act any thing to God in Chriſt Jeſus, then from what they receive into them by the Spirit, and that they have the mind of Chriſt, and do thereby know and underſtand the things of God; which others neither do, nor <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> know: Whereas this truth alſo hath appeared in the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in all ages, and is aſſerted by the Apoſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <hi>Paul,</hi> where he ſaith, <hi>We leaving the ſame ſpirit of faith,<note place="margin">2 Cor. 4.13.</note> according as it is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, I <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> believed, and therefore I have ſpoken; we alſo
+<pb n="6" facs="tcp:161257:4"/>believe, and therefore ſpeak,</hi>
+                  <note place="margin">Rom. 8.15.</note> and again, <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> received the Spirit of adoption, whereby we cry, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Father</hi> It is the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> priviledg of the Apoſtle and all the Saints with him, we<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ven we are no further carried out to beleeve, or act any <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to God in Chriſt Jeſus, then from what we receive into <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the Spirit.<note place="margin">1 Cor. 6.19, 20</note> Again he ſaith, <hi>What know ye not that your body is the Temple of the holy Ghost in you, which ye <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of God and ye are not your own? For ye are bought with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> therefore glorifie God in your body, and in your ſpirit, which are God.</hi>
+               </p>
+               <p>Again, They that are joyned unto the Lord, are one Spirit and therefore they have the mind of Chriſt, and do <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> know and underſtand the thiings of God, which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> we<g ref="char:EOLhyphen"/>ther do nor can know: this moſt bleſſed <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> truth wil clearly appear in the Saints Union with <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> He that is joyned to the Lord is one Spirit, and he <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Spirit hath the ſame mind; and therefore hath <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Chriſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t is an impreſſion of the ſame Spirit that malt<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>neſs, in the Spirit of the Beleever, with Jeſus Chriſt: <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> what the Lambs mind is, in giving glory to God, the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and hath been the mind of the Saints in all ages, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſuffering days of the victorious Saints: For the Scripture <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, <hi>they that had gotton the victory over the beaſt,<note place="margin">Rov. 15.2, 3.</note> and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> image, and over his mark, and over the number of his <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, ſtood on the ſea of glaſs, having the hurps of God: And they ſing the ſong of</hi> Moſes <hi>the ſervants of God, and of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> So that you plainly ſee, that the <hi>Saints,</hi> and <hi>Moſes,</hi> and the <hi>Lamb</hi> are al of one mind: they ſing the ſame ſong with the lamb in all ages. And although none know the mind of the Lord, that he may inſtruct him: yet many, even all the Saints, know the mind of the Lord and are inſtructed by him: for they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> receive the things of the Spirit of God, and know and under<g ref="char:EOLhyphen"/>ſtand the things of God, and have the mind of Chriſt; which others, even all others, who receive the Spirit of the w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ld, and are called the naturall man, have not; neither do not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> know or receive the things of the Spirit, becauſe they are Spi<g ref="char:EOLhyphen"/>ritually diſcerned: as it is writen: <hi>Eye hath not ſeen,<note place="margin">1 Cor. 2.9, &amp;c.</note> nor as
+<pb n="7" facs="tcp:161257:4"/>heard, neither have entred into the heart of man,</hi> (to wit, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> man, who is here oppoſed to the ſpiritual) <hi>the things which God hath prepared for them that have him: But God <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> revealed them <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> by his Spirit: for the Spirit ſear<g ref="char:EOLhyphen"/>cheth all things, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the deep things of God. Now we have re<g ref="char:EOLhyphen"/>ceived, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ſpirit of the world, but the Spirit which is of God, that we might know the things that are freely given to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of God, But the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> man receiveth not the things of the Spirit of God, for they are fooliſhneſs unto him: neither can be know them, becauſe they are ſpiritually diſcerned: But he that is ſpiritual judgeth (or diſce<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>h) all things, yet be himſelf it judged (<gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> man. For who hath <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the mind of the Lord that he may (or ſhall) inſtruct him? But we <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of Chriſt.</hi> His laſt Error is his teach<g ref="char:EOLhyphen"/>ing his <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that if they were but zealous and faithful to God and their own <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> they would ſuppreſs theſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> this <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> firſt to judg thoſe breathren for whom Chirſt dyed; not in an ordinary way, but with the higheſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of ſpirit: for he knoweth that thoſe, whom he <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> will with the Apoſtle <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, <hi>That after the way which they call Here<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the God of our father beleeving all things which are <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> and the Prophets;</hi>
+                  <note place="margin">Acts 24.14, 15 16.</note> 
+                  <hi>And have hope to<g ref="char:EOLhyphen"/>wards God, which the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> alſo allow, that there <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> of the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>: And <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> have always <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> god and towards men.</hi>
+                  <note place="margin">Rom. 14.3, 4. 11, 12, 23.</note> 
+                  <hi>For whether <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the Lord: or whether <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> dye, we dye <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Lord; whether we have therefore or dye, we are the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> I <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, with the Apoſtle <hi>Paul, ſay <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> all ſuch, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> his own master he ſtandeth or falleth: <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ſhall confeſs to God; <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <pb n="8" facs="tcp:161257:5"/>bling block, or an occaſion to fall in his brother; way:</hi> which ſuch Miniſters do in<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> notable manner, by calling Gods <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ones blaſphemous Hereticks. And</p>
+               <p>Secondly, by ſtirring up their hearers unto ſolition; under pretence of zeal and faithfulneſs unto God and their own <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to ſuppreſs them but tel me by what means you <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> would have them ſuppreſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Neigh.</speaker>
+               <p>I ſhal tel you what I heard reported of one of theſe Miniſters, that week when the Parliament and their Speakers were driven away by that Riotous inſolency of thoſe <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</hi> from <hi>Weſtminiſter</hi> to the Army: How he was ſeen to go from houſe to houſe, unto thoſe members that were <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in that Junto during the Parliaments abſence. And the Lords day fol<g ref="char:EOLhyphen"/>lowing, being the firſt of <hi>Auguſt,</hi> one that was in his Congre<g ref="char:EOLhyphen"/>gation the proceedings of the Londoners, the Apprentions and that Junto: for the prayed God to turn the hearts of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and that they, and thoſe that were fled unto them, would take example by the Parliament (for ſo he was pleaſed to call them) and by the Citizens of <hi>London,</hi> to live in godlineſs, unity and peace: and prayed alſo that the Country might come in to the timely <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yd and relief of the City: whereby I ſuppoſe that theſe zealous would have their hearers to uſe all poſſible means by the dint of the ſword to oppoſe and ſuppreſs ſuch whom they aſperſe with Blaſphemy and Hereſie, as an acceptable ſervice, thereby to procure peace from God unto the Land: as it is written, <hi>The time cometh, that whoſoever killeth you, will think that he doth God ſervice:</hi> and therefore ſhew me by what rule you pitty ſuch, who are bent againſt you with ſuch error and rancor, that if it were poſſible they would <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> your name, not ſparing any coſt or deſign <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> by the ſword or any ways to do it.</p>
+            </sp>
+            <sp>
+               <speaker>Friend.</speaker>
+               <p>I ſhal ſatisfie you one of the Old and New <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, both by precept and example that we are to pitty to pray for, and to do good, to our <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</p>
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and love <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and
+<pb n="9" facs="tcp:161257:5"/>put the gainſayers to ſilence: I pray therefore proceed.</p>
+            </sp>
+            <sp>
+               <speaker>Frien.</speaker>
+               <p>In the Law, <hi>Levit.</hi> 19.18. it ſaith, <hi>Thou ſhalt not avenge nor bear any grudg againſt the children of thy people, but thou ſhalt love thy neighbour as thy ſelf; I the Lord.</hi> Here we have the duty of love in the extent of it, doing our enemies no evil; loving them as our ſelves: and we have the command and example from Jehovah, the Lord; I am the Lord; &amp; therfore, my comand &amp; example are unqueſtionably to be obeyd.</p>
+               <p>Secondly, Our Lord Jeſus Chriſt makes out this truth in the Goſpel moſt clearly, ſaying, <hi>But I ſay unto you,<note place="margin">Mat. 5.44, &amp;c.</note> Love your enemies, bleſs them that curſe you, do good to them that hate you, pray for them which diſpitefully uſe you and perſe<g ref="char:EOLhyphen"/>cute you: That ye may be the children of your Father which is in heaven:</hi> And he giveth the reaſon why we ſhould follow Gods example, from other convincing Arguments; although that were enough, That he is our Father which is in heaven. Ye we are to obſerve him in his gracious workings towards all men upon the earth: <hi>For he maketh his Sun to riſe on the evil and on the good, and ſendeth rain on the just and on the unjuſt.</hi> Again, he appealeth unto the teſtimony of our con<g ref="char:EOLhyphen"/>ſciences from the entireneſs of our faith and love, in ſingleneſs of heart doing what we do unto the Lord and not unto men: looking for our reward from God only: <hi>For if ye love them which love you, what reward have ye? Do not the Publicanes the ſame? And if ye ſalute your brethren only, what do you <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>? Do not even the Publicanes do ſo?</hi> And then we have the higheſt rule and cleareſt demonſtration of a Chriſtians love in our Fathers perfection, <hi>Be ye therefore perfect, as your Fa<g ref="char:EOLhyphen"/>ther, which is in heaven, is perfect.</hi>
+               </p>
+               <p>Again, We have the example of <hi>Eliſha,</hi> in the Old Teſta<g ref="char:EOLhyphen"/>ment, bidding the King of <hi>Iſrael ſet bread and water before his enemies,<note place="margin">2 King. 6.22, 23.</note> the Syrians that they may eat, and drink, and go to their maſter. And the King prepared great proviſions for them, and when they had eaten, and drunk, he ſent them away.</hi>
+               </p>
+               <p>
+                  <hi>And alſo we Gentiles, who at that time were without Chriſt, being aliens from the Common-wealth of Iſrael,<note place="margin">Eph. 2.12.</note> and ſtrangers from the Covenants of promiſe, having no hope, and without God in the world.</hi> Yet then, even then, the Church of the Jews pitied us, and did remember us at the throne of grace, ſaying, <hi>We have a little ſister,<note place="margin">Cant. 8.8, 9.</note> and ſhe hath no breaſts; what
+<pb n="10" facs="tcp:161257:6"/>ſhal we do for our ſiſter, in the day when ſhe ſhal be ſpoken for? If ſhe be a wall, we wil build upon her a palace of ſilver; and if ſhe be a door, we wil encloſe her with boards of Cedar.</hi>
+               </p>
+               <p>And in the new Teſtament we have the example of Ieſus Chriſt, and his ſervant <hi>Steven,</hi> pittying, and praying for their enemies. Our Lord Ieſus Chriſt being perſecuted in his own perſon, and in his members; pitty them often, and moſt tender<g ref="char:EOLhyphen"/>ly, ſaying,<note place="margin">Mat. 23.37.</note> 
+                  <hi>O Jeruſalem, Jeruſalem, thou that killeſt the Pro<g ref="char:EOLhyphen"/>phets, and ſtoneſt them which were ſent unto thee; how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not? And when they were come unto</hi> Calvary, <hi>there they crucified him:</hi>
+                  <note place="margin">Lu. 23.33.34.</note> 
+                  <hi>Then ſaid Jeſus, Father forgive them, for they know not what they do.</hi>
+               </p>
+               <p>And when thoſe, that were eſteemed the learned men of thoſe times,<note place="margin">Acts. 6.9.10. &amp;c.</note> diſputing with <hi>Steven, were not able to reſiſt the wiſdom, and the ſpirit by which he ſpake: They ſuborned men, and ſtirred up the people, and the Elders, and the Scribes, and came upon him, and caught him, and brought him to the Coun<g ref="char:EOLhyphen"/>ſel, and ſet up falſe witneſſes, which</hi> (accuſing him of blaſphe<g ref="char:EOLhyphen"/>my) <hi>ſaid, this man ceaſeth not to ſpeak blaſphemous words a<g ref="char:EOLhyphen"/>gainſt this holy place, and the Law. For we have he<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d him ſay, that this Jeſus of</hi> Nazareth <hi>ſhal deſtroy this place, and ſhal change the cuſtoms which</hi> Moſes <hi>delivered us.</hi> And then <hi>Ste<g ref="char:EOLhyphen"/>ven</hi> anſwered and ſpake unto them, not with the enticing words of mans wiſdom, but in demonſtration of the ſpirit, and of power.<note place="margin">Acts 7.59.60.</note> 
+                  <hi>Yet they ſtoned Steven, calling upon God and ſaying, Lord Jeſus receive my ſpirit, and he kneeled down, and cryed with a loud voice, Lord lay not this ſin to their charge.</hi> So that here we ſee <hi>Steven,</hi> though not in degree, yet in truth is perfect in love, <hi>even as our Lord Jeſus Chriſt, and our fa<g ref="char:EOLhyphen"/>ther in heaven is perfect.</hi> So that although he is ſtoned to death, and by the Teſtimony of falſe witneſſes, yet he pittieth them, and prayeth for them, that God may do them good in the higheſt degree, even by pardoning this, even this their great ſin, and thus in his life and death, he is made conformable to our Lord Ieſus Chriſt. And when <hi>Steven</hi> had thus prayed, he fell aſleep, his ſpirit repoſed in reſt and peace. And our Lord Ieſus Chriſt, and bleſſed <hi>Steven</hi> obtained their requeſts. For
+<pb n="11" facs="tcp:161257:6"/>
+                  <hi>Saul,</hi> who conſented unto the death of <hi>Steven,</hi> at wheſe ſeet they that ſtoned him layd down their Cloaths, though now a perſecuter, is, after this, by our Lord Ieſus Chriſt called unto grace, and made <hi>Paul</hi> a faithful Apoſtle, even a preacher of the Goſpel of our bleſſed Lord and Saviour Ieſus Chriſt, And many of them that crucified our Lord Ieſus Chriſt, even about 3000, were added unto the Church at one Sermon. O there<g ref="char:EOLhyphen"/>fore, let us live in love even towards our enemies, praying for pittying, and doing good to them that hate us and diſpitefully uſe us. By this we ſhal bring glory to God, and have peace in our ſelves here with reſt, and ſweet repoſe to our ſpirits at our death, and declare our ſelves to be the children of our hea<g ref="char:EOLhyphen"/>venly father, by being perfect in love, and not only ſo, but in truth and acceptance alſo, we are perfect, even as our Father which is in heaven is perfact.</p>
+            </sp>
+            <sp>
+               <speaker>Neighbour,</speaker>
+               <p>O bleſſed truth. I heartily deſire the father, and our Lord Ieſus Chriſt, by the ſpirit of grace to form me, and all his, into this bleſſed frame of love. I pray you, ſhew me how we may become inſtrumental, to reclaim and reduce our enemies from the Error of their evil way.</p>
+            </sp>
+            <sp>
+               <speaker>Friend.</speaker>
+               <p>As God ſhal enable me by the word of truth, and his ſpirit of truth forming me into the truth, I ſhal dedare it unto you; and in this reſpect, let us be careful in our Converſa<g ref="char:EOLhyphen"/>tions to follow Righteouſneſs, faith, charity, peace,<note place="margin">2 Tim. 2.20.</note> with all that call on the Lord out of a pure heart. Look how others have been inſtrumental in following Righteouſneſs, faith, cha<g ref="char:EOLhyphen"/>rity and peace, praying and calling upon the Lord for their ene<g ref="char:EOLhyphen"/>mies out of a pure heart; and be you the like in calling upon God for your enemies, and as you have the practiſe of our bleſ<g ref="char:EOLhyphen"/>ſed Saviour, and of his ſervant <hi>Steven.</hi> So be ſure that you <hi>pray without wrath, for the wrath of man worketh not the righteouſneſs of God.</hi>
+                  <note place="margin">Jam. 1.20.</note> And in this you wil ſhew forth your righteouſneſs, faith, charity, and peace towards your enemies, in the ſight of God, when you call upon the Lord for them, out of a pure heart. But be ſure to follow this manner, of cal<g ref="char:EOLhyphen"/>ling upon the Lord for them:<note n="*" place="margin">Tim. 2.8.</note> 
+                  <hi>Every where lifting up holy hands without wrath and doubting.</hi>
+               </p>
+               <p>Secondly, In order to our enemies themſelves, when they ſhew much hatred and cruelty againſt us, take heed that we
+<pb n="12" facs="tcp:161257:7"/>ſhew much love, patience and kindneſs unto them; when they curſe let us bleſs; follow the Commandment, purſue it, obey it in the Lord, for this is right: Thus let us follow righteouſ<g ref="char:EOLhyphen"/>neſs and peace towards our enemies, and in nothing be provo<g ref="char:EOLhyphen"/>ked either by their unrighteous words or deeds; but exerciſe faith, in beleeving that God, who out of the riches of his free<g ref="char:EOLhyphen"/>grace, when thou waſt an enemy and ungodly, did then call thee out of thy natural and ſinful condition unto the grace wherein thou ſtandeſt, the ſame God may call him alſo unto the ſame grace together with thee. Again, in the exerciſe of thy charity and peace towards thine enemy, be exceeding tender unto him or her in the day of diſtreſs; this may work high thoughts in them of Gods goodneſs, who hath kindled ſome ſparks of his goodneſs in thee, and diſcovered it by thy conver<g ref="char:EOLhyphen"/>ſation unto them: <hi>If thine enemy hunger, give him meat; if he thirst,</hi>
+                  <note place="margin">Prov. 25.21. Rom. 12.20, 21</note> 
+                  <hi>give him drink:</hi> this wil extract goodneſs out of him towards thee; and by this means, <hi>thou heapeſt coals of fire upon his head,</hi> not to conſume him, but to ſave and to re<g ref="char:EOLhyphen"/>fine him from that droſs that is in him, even as the refiner tries the gold from the droſs, by heaping coals of fire upon the head of it, in the refiners veſſel: go thou and do good in like man<g ref="char:EOLhyphen"/>ner, but be ſure thou be drawn forth in thy ſpirit with much love to thine enemy, in ſhewing him what great things God hath done for thee: breaking and breathing forth unto him in high expreſſions of Gods love in Jeſus Chriſt, towards wret<g ref="char:EOLhyphen"/>ched ſinners: Do as the Lord did with the woman of <hi>Sama<g ref="char:EOLhyphen"/>ria</hi> at the Wel, and draw Waters of Salvation out of that Wel, to quench thine enemies thirſt after ſin: And as thou doſt feed him when he is an hungry, and give him drink when he is a thirſt; ſo cloth him with the like affection when he is naked: and thus ſupply thine enemy in every diſtreſs, according to the kind of it: this may work much good in thine enemy, for it is Gods way thus to refine his heart from its corruption: if thine enemy be in priſon go unto him, if he be ſick viſit him: but ſtil, what ever it be thou doſt unto him, or for him, or her, be ſure to carry the tender bowels of Chriſt Jeſus with thee in thine heart: and ſtil drop out the ſweetneſs of wiſdom and love un<g ref="char:EOLhyphen"/>to him, or her, in the free love of God and grace of our Lord Jeſus Chriſt unto ſinners, it is poſſible that God may diſcover
+<pb n="13" facs="tcp:161257:7"/>himſelf unto them, by the work of his Spirit in them, and ſo what thou haſt done ſhal be laid up with the Lord Jeſus Chriſt and imputed unto thee, as it had been done unto himſelf, al<g ref="char:EOLhyphen"/>though thou knoweſt it not.</p>
+            </sp>
+            <sp>
+               <speaker>Neigh.</speaker>
+               <p>Many now adayes oppoſe the wayes of God, with fooliſh and unlearned queſtions, which ſavour nothing of Gods ſpirit at all, but do only gender ſtrife, what are we to do in this caſe?</p>
+            </sp>
+            <sp>
+               <speaker>Friend.</speaker>
+               <p>We are to conſider we are Gods ſervants, and are to act only according to his Commands, which in this caſe is, That <hi>the ſervant of the Lord must not ſtrive: but be gentle unto all men, apt to teach, patient,</hi>
+                  <note place="margin">2 'Tim. 2.24. &amp;c.</note> 
+                  <hi>In meekneſſe inſtructing thoſe that oppoſe themſelves, if God peradventure will give them repentance to the acknowledging of the truth; And that they may recover themſelves out of the ſnare of the devill, who are taken captive by him at his will.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Neigh.</speaker>
+               <p>There are many that oppoſe that ſweet and ſpiritu<g ref="char:EOLhyphen"/>all converſation, and affirme that they only are in the truth, and onght zealouſly to contend, and to hate ſuch as oppoſe them with a perfect hatred; and they make it their work to ſow ſedi<g ref="char:EOLhyphen"/>tion amongſt brethren; and make contention amongſt the lo<g ref="char:EOLhyphen"/>ving Saints, they themſelves profeſſing godlineſſe. What are we to do in this caſe?</p>
+            </sp>
+            <sp>
+               <speaker>Friend.</speaker>
+               <p>We are ſtill to have recourſe unto the <hi>holy Scrip<g ref="char:EOLhyphen"/>tures,</hi>
+                  <note place="margin">2. Tim. 3.15.</note> 
+                  <hi>which are ſufficient to make us wiſe to ſalvation, through faith in Chriſt Jeſus. And if any man lack wiſdom, let him ask it of God, who gives liberally to al men, and upbraideth not: and it ſhall be given him.</hi> But in no caſe decline Gods counſel, but heare and do. And to this purpoſe the Scripture ſaith;<note place="margin">Jam. 3.13, 13, &amp;c.</note> 
+                  <hi>Who is a wiſe man, and enduod with knowledge amongst you, let him ſhew out of a good converſation his works, with meekneſſe of wiſdome. But if ye have bitter envying and ſtrife in your hearts, glory not, and lye not againſt the truth. This wiſdom deſcendeth not from above, but is earthly, ſenſuall, (naturall) anddevilliſh. For where envying and ſtrife is, there is confuſion, (tumult, unquictneſſe) and every evill work. But the wiſdom which deſcendeth from above, a firſt pure, then peaceable, gen<g ref="char:EOLhyphen"/>tle and eaſie to be entreated, full of mercy and good fruits, with<g ref="char:EOLhyphen"/>out partiality (or wrangling) and without hypocriſie. And
+<pb n="14" facs="tcp:161257:8"/>the fruit of righteouſneſſe is ſown in peace, of them that make peace.</hi>
+                  <note place="margin">Rom 12.18.</note> We are to follow the rule, and that is: <hi>If it be poſſible, as much as lyeth in you, live peaceably with all men.</hi> Sow the fruit of righteouſneſſe in peace, while others ſow the fruit of unrighteouſneſſe, in raiſing ſedition and contention. Be meek and wiſe towards them that oppoſe and contend, but give them no advantage in any thing. Be wiſe as Serpenes, yet inno<g ref="char:EOLhyphen"/>cent as Doves. Thus <hi>Paul</hi> took the <hi>Corinthians</hi> in a wile, while he transfers their errour, who were miſled by the inticing words of mans wiſdom, not unto their unfaithfull teachers, but in a figure unto himſelf and <hi>Apollos,</hi>
+                  <note place="margin">1 Cor. 4.6.</note> that the <hi>Corinthians</hi> might lean in them, not to think of men above what is written: and that no one of them be puffed up for one againſt another. And thus the Apoſtle takes down the ſpirit of envying, and ſtrife, and the diviſions that were among them: that they might learn, not to exalt one for his humane eloquence, nor deſpiſe another, be<g ref="char:EOLhyphen"/>cauſe he taught them plainly, but in demonſtration of the ſpirit, and of power.</p>
+               <p>Secondly, ſow Peace among theſe envious and contentious ones, by making them to underſtand that thou haſt ſo much charity as to beleeve they are Chriſtians, though as yet but babes in Chriſt, and ſuch as are not ſpirituall, but very carnall in com<g ref="char:EOLhyphen"/>pariſon of grown and ſtrong Chriſtians, and that they are to be fed with milk, and not with meat: And the Apoſtle gives the reaſon, ſaying, <hi>I have fed you with milk, and not with meat: for hither to ye were not able,</hi>
+                  <note place="margin">1 Cor. 3.2, 3.</note> 
+                  <hi>neither yet are ye able. For ye are yet carnall, for while there is envying and ſtrife, and divi<g ref="char:EOLhyphen"/>ſions (or factions) are ye not carnall, and walk as men?</hi> Let us therefore receive them as brethren and babes in Chriſt, while they are yet men in corruption; and have not overcome that wicked one, as thoſe young men, and ſtrong, and Fathers that are experienced in the exerciſe of faith and love, have done; who do not live after the fleſh, as theſe babes do in ſtrife and debate. but after the ſpirit, and our Lord Jeſus, in all wiſdom, meek<g ref="char:EOLhyphen"/>neſſe, love, and forbearance towards them, becauſe their ſins are forgiven them; condeſcending unto their weakneſſes and infir<g ref="char:EOLhyphen"/>mities, as much as may be: but let us by no means deſpiſe them, although they do judge us, <hi>Rom.</hi> 14.3, 4.</p>
+            </sp>
+            <sp>
+               <speaker>Neigh.</speaker>
+               <p>You know that many in their raſh zeale have been as
+<pb n="15" facs="tcp:161257:8"/>earneſtly bent againſt this army, as <hi>Saul</hi> was to root out the <hi>Gibe onites</hi> from among <hi>Iſrael.</hi> I pray you ſhew me what God hath done by, for, and in this army.</p>
+            </sp>
+            <sp>
+               <speaker>Friend.</speaker>
+               <p>From the beginning God hath appeared much by, for, and in this Army, in carying them on in his own way: when they were firſt modelized, the godlineſſe of their Officers and Commanders many of them, and the inexperience of the com<g ref="char:EOLhyphen"/>mon ſoldier was derided of many that were eſteemed Some bo<g ref="char:EOLhyphen"/>dy in the firſt army; who threw up their Commiſſions, and with the rude multitude ſentenced all, both Parliament and Ar<g ref="char:EOLhyphen"/>mie, to be in a loſt condition: But who art thou that deſpiſeſt the day of ſmall things, for not by might, nor by power, but by his owne ſtrength and wiſdom hath God done all. O there<g ref="char:EOLhyphen"/>fore, give him the whole glory in all thoſe great things which at firſt he did in this Army, in making them as holy and faith<g ref="char:EOLhyphen"/>full as ever were any, who by faith ſubdued Kingdomes,<note place="margin">Heb. 11.</note> and wrought righteouſneſſe.</p>
+               <p>Secondly, God hath done as much, by, and for this Army, as might convince all the gain-ſayers, if their eyes were not wholly blinded, that God is with them of a truth: they obtained a moſt glorious victory and deliverance at <hi>Naſby</hi> field, the firſt fruits and earneſt of Gods preſent goodneſſe and future <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſence of love, unto them; in ſo much, that many of them that beleeved, were then effectually eſtabliſhed and grew conſident, that the ſame God that had been with them, would ſtill be with them, and deliver them by his own aſſiſtance of them, unto the end; and the Lord their God did ſo; yea, they took his counſed, and ſought him in all things, even him alone, in whom they al<g ref="char:EOLhyphen"/>wayes bouſted, ſaying, <hi>God is our refuge and ſtrength, a very preſent help in trouble, therefore wil not we fear.</hi> And when they obtained any victory or de<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ance, they not only themſelves, gave God the glory, but alſo ſtrirredup others to do it, ſaying, <hi>Come behold the works of the Lord,</hi>
+                  <note place="margin">Pſal. 46.1, 2.8, 9.</note> 
+                  <hi>behold what deſolations he hath make in the earth, he maketh wars to ceaſe unto the ends of the earth.</hi>
+               </p>
+               <p>
+                  <hi>O ſing unto the Lord a new ſong,</hi>
+                  <note place="margin">Pſal. 89 1.</note> 
+                  <hi>for he hath done marnellaus things: his right hand and his boly arme hath getten him the victory.</hi> Yen, when God had put all, that did openly reſict, to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lence by them: Yet ſtill they ſaw an enemy, and weiced upon
+<pb n="16" facs="tcp:161257:9"/>the Lord for his ſalvation and deliverance, not only unto them<g ref="char:EOLhyphen"/>ſelves, but even unto the whole Kingdom, for whoſe ſakes they firſt engaged, and in whoſe cauſe they had ſpent, and were ready to ſpend their deareſt blood, to ſetile a firme and well<g ref="char:EOLhyphen"/>grounded peace: Beleeving that although they were but as the worm <hi>Jacob</hi> in compariſon of their politick &amp; potent enemies, who ſwarmed in al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pares and places, even in the chiefeſt Cham<g ref="char:EOLhyphen"/>ber of ſtrength and Judicature; that God would by them in<g ref="char:EOLhyphen"/>ſtrumentally recover and preſerve this languiſhing, ſick, and pe<g ref="char:EOLhyphen"/>riſhing Kingdom, and that they ſhould become uſefull in revi<g ref="char:EOLhyphen"/>ving the dying hopes of the Liberties, Rights, and Intereſts of this wretched Nation: Whereunto the politique Enemy had inter-woven themſelves, and like the moth, not only almoſt eaten them into pieces, but alſo, with them, out free Parliament, who have been the ſtrongeſt, richeſt, and preciouſeſt covering and clothing that ever God gave unto this Kingdom, even then when they were in their weakeſt, pooreſt, and nakedeſt condi<g ref="char:EOLhyphen"/>tion that ever they were in: Yea, alſo the power of the Ene<g ref="char:EOLhyphen"/>mie was prepared as a Lion ready-to rend and teare in pieces, and to take all away; ſaying, None ſhall be able to reſcae, ſave, or deliver the prey out of our paw: Yet then, even then God performed, unto his ſervants, all his goodneſſe according as he had made them to put their truſt in him.</p>
+               <p>For although the Enemy had forced our Parliament, and as they thought, accompliſhed their work, and fully obtained their deſired deſigne: Yet now, even now, at this very time, God made the Army inſtrumental and uſeful in our greateſt diſtreſſe, and reſtored the Parliament by their deſpiſed Army, unto their former freedore, ſplendor, beauty and glory; and have cleared up their own faithfulneſſe and godly integrity unto all men, maugre the malice of all their enemies, who rewarded their good with evill. But yet they contiuned good and peaceable unto them: Yea, our Parliament is ſecured, Gods people in all places revived and greatly comforted, the Enemy taken in their own craftineſſe, and fallen into the pit which themſelves had digged, are greatly diſcouraged; and the Kingdom, we hope, in a good way to be delivered, ſecured and ſetled: For God hath ſaid, <hi>I am thy God, I will ſtrengthen thee:</hi> yea, <hi>I will help thee:</hi> yea, <hi>I wil up old thee with the right hand of my righteouſneſſe.</hi>
+                  <pb n="17" facs="tcp:161257:9"/>Fear not thou worne <hi>Jacob,</hi> and ye men of <hi>Iſrael,</hi>
+                  <note place="margin">Eſai. 41 10, 14 15, 16,</note> 
+                  <hi>I will help thee, ſaith the Lord,</hi> and thy Redeemer, the holy one of Iſrael. <hi>Behold, I will make thee a new ſharp threſhing inſtrument, ha<g ref="char:EOLhyphen"/>ving teeth; thou ſhalt threſh the mountains, and beat them ſmall, and ſhalt make the hils as chaffe: thou ſhalt fan them, and the win! ſhall carry them away, and the whirlwind ſhall ſcatter them: and thou ſhalt rejoyce in the Lord, and glory in the boly one of Iſrael.</hi>
+               </p>
+               <p>Now therefore give me leave to ſay, O yee his holy ones, O ye his People, in the Parliament, in the Army, in the City, and the whole Kingdom: Stir up your ſelves in the Lord, and be ye thankfull, yea, be yeſtrong, couragious, and very unanimous; with one ſhoulder to go on, and finiſh the work of your God; for he hath promiſed, that he will be with you, and that he wil never leave you, nor forſake you.</p>
+            </sp>
+            <sp>
+               <speaker>Neigh.</speaker>
+               <p>It comes to my mind how I have heard that the Army were divided and diſperſt, at above one hundred in let diſtance, in their quarters, at that time when the Parliament and their Speakers were moſt barbarouſly driven from <hi>West<g ref="char:EOLhyphen"/>minster,</hi> unto them; and that the <hi>Junto</hi> and the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> with all their prepared forces, contrary to the Ordinances of Parliament, being b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ted to make war againſt them: Yet then the Lord wrought marvdlouſty, in returing the Parlia<g ref="char:EOLhyphen"/>ment, and their Army together with them, within one week, in peace nad triumph to ſit in their places, in <hi>Weſtminſter,</hi> with<g ref="char:EOLhyphen"/>out the leaſt appearance of oppoſition, theſe Army marching peaceably thorow <hi>London,</hi> without doing the leaſt injury or affront to any; ſhilenced the Enemy: their gentleneſle, meek<g ref="char:EOLhyphen"/>neſſe, and quiet order, was admired of all: And yet now again many do ſpeak againſt, and repine at the Parliament, and their Army; may we not fear that this is one cauſe why Gods hand is out in wrath againſt us, by the preſent diſperſed Pe<g ref="char:EOLhyphen"/>ſtilence.</p>
+            </sp>
+            <sp>
+               <speaker>Friend,</speaker>
+               <p>The people murmuring and practſing againſt the Parliament and their Army, whom God hath eminently exal<g ref="char:EOLhyphen"/>ted with his own right hand by many ſignes and wonders, may be one cauſe of wrath upon us, both in the being, and con<g ref="char:EOLhyphen"/>tinance alſo, of the ſo much diſperſed Peſtilence, as it was with <hi>Iſrael</hi> in the Wildemeſſe, firſt they beleeved the evill
+<pb n="18" facs="tcp:161257:10"/>report,<note place="margin">Numb. 13.32.33. &amp; Chup. 14.</note> the Spies had brought upon the Land of <hi>Canaan,</hi> and then they murmured againſt <hi>Moſes</hi> and <hi>Aaron,</hi> and they ſaid one to another, <hi>Let us make a Captain, and let us returne to Aegypt.</hi> They intended to make wat againſt them that ſhould reſiſt their deſign; but <hi>Moſes, Aaron, Joſhua,</hi> and <hi>Calcb</hi> ſpake unto them ſaying, only rebel not ye againſt the Lord &amp; al<g ref="char:EOLhyphen"/>though they perſwaded them in much love and meckneſs of ſpi<g ref="char:EOLhyphen"/>rit, yet they bade ſtone them with ſtones. But the Lord ſaid unto <hi>Moſes, how long wil this people provoke me, and how long wil it be ere they believe me, for all the ſigns that I have ſhewed among you? I wil ſmite them with the peſtil<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> and diſi<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>eril them.</hi> Even thus it is with thoſe that have received on evill report, and believe it againſt the Lords people; here they re<g ref="char:EOLhyphen"/>bel againſt the Lord: Their ſormer ſlavery they eſteem their liberty, and in their hearts they are turned back into <hi>Aegyp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>;</hi> they luſt to follow their old manners in life and Religion: ſee<g ref="char:EOLhyphen"/>ding upon garlick and omons, and do loath thoſe pure and heavenly diſpenſations of ſpiritual truth, where with we are ſed dayly; and call the ſpiritual food light manna; deſiring to live in darkneſs and conſuſion in their own underſtandings; deſpi<g ref="char:EOLhyphen"/>ſing, rejecting, and perſecuting the Lord Ieſus in his members; and therefore they are ſpiritually called <hi>Sodom,</hi> and <hi>Aegypt,</hi> where alſo our Lord was crucified; but tho Lord faith unto all ſuch, he wil ſmite them with the peſtilence, and difinherit them; and it may be ſo becauſe of their great wrath and hatred againſt the Lords people, who are very d<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> and render unto him;<note n="*" place="margin">Exo. 4 22. &amp; 19.5. Zech 2.8. Epheſ. 5.30. 1 Cor. 12.12. &amp; 6.17. &amp; 2.16. ult. 1 John. 2.27. Pſal. 105.14.15.</note> They are his firſt born, his pec<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>-treaſure, and jewels; and who ſo toucheth them, toucheth the apple of his eye; they are fleſh of his fleſh, and bone of his bone; they are one bo<g ref="char:EOLhyphen"/>dy, and have one ſpirit, and the mind of Chriſt, having the ſame annoynting; God hath rep<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ed Kings for their ſakes; ſay<g ref="char:EOLhyphen"/>ing. <hi>Touch not mine annainted, nor do nay Prophets no har<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> And yet ſome who are their ſervants, act moſt againſt them: for about five years fince. <hi>December</hi> next, a meſſenger of ſpecial truſt in the Parliament ſervice, going in at the head quarters at <hi>Winſor,</hi> was by a Lievt. of Dr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>goons and ſome of his company then with him in the Parliament ſer<g ref="char:EOLhyphen"/>vice, ſurprized and drive<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> back to <hi>Slo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gh,</hi> where the ſaid Lein. took the State Letters, from him: brake them open, Commu<g ref="char:EOLhyphen"/>nicated
+<pb n="19" facs="tcp:161257:10"/>them to ethers, and kept them together with the meſ<g ref="char:EOLhyphen"/>ſenger in ducance all night: Some of the Kings forces then quartering at <hi>Maidenhead,</hi> and the Leiut. at <hi>Horton,</hi> near <hi>Winſor:</hi> Moſt part of the night being ſpent in Carow<g ref="char:EOLhyphen"/>ſing of healths, ribaldry ſongs, and diſcourſes between him and his Souldery. Mean while one of his company told the meſ<g ref="char:EOLhyphen"/>ſenger, that he knew no reaſon of the War between the King and the Parliament, except it were to exhauſt the treaſure and ſtrength of a generation of Tub-preachers, who at preſent diſturbed all things in the Parliament, the Army, in London, and in the whole Kingdom: and he ſaid, theſe Tub-Preachers intended to aboliſh the book of Common-prayer, to put down Organs in the Minſters, and did preach in houſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; perſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uring Gods faithful Miniſters with impriſonment, and named <hi>Doctor Oldſworth,</hi> and ſome others. And ſaid, that when theſe Tub<g ref="char:EOLhyphen"/>men were brought l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w,) he did not doubt but the King, the Army, and the Parliament would agree in one, for they were all of one Religion, and would ſuppreſs all who were contra<g ref="char:EOLhyphen"/>ry unto them. The ſaid meſſenger procured the ſaid Leiut. to be taken into cuſtody the next morning, until he ſhould be tryed by a Counſel of War for his ſaid fact.</p>
+               <p>He did alſo faithfully declare the whole buſineſs before a Committee o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lords and Commons, and the Militia of Lon<g ref="char:EOLhyphen"/>don, at Haberd ſhers Hall.</p>
+               <p>And the laſt year, one who had been very laviſh in ſpeak<g ref="char:EOLhyphen"/>ing reproachiully againſt the Parliament, the Kingdom, and this their Army, taxing them with Hereſy and Blaſph<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y, ur<g ref="char:EOLhyphen"/>ging it without any diſtinction, in much bietemeſs againſt the godly party in general, being asked what he thought of divers eminent Preachers (together with other Chriſtians) who were then nominated unto him, being perſons unblameable and ſui<g ref="char:EOLhyphen"/>table to the Goſpel, both for their Doctrine and Converſati<g ref="char:EOLhyphen"/>on? He anſwered, that thoſe and all ſuch as they were, were the vileſt of all men, the baſeſt and very worſt of all the reſt; and that they would make them appear to be ſo unto all men very ſhortly; but God hath diſappointed them, and ſome of the chieleſt of them, who had brought up an evil report upon our parliament, their Army, and the reſt of Gods people, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r<g ref="char:EOLhyphen"/>ring up the multitude to murmur and practiſe evil againſt them,
+<pb n="20" facs="tcp:161257:11"/>have died of the plague before the Lord,<note place="margin">Num. 14 37. &amp; v. 20.</note> even as they did who ſtirred up <hi>Iſrael</hi> to murmur againſt Gods inſtruments, e<g ref="char:EOLhyphen"/>ven <hi>Moſes</hi> and <hi>Aaron:</hi> whereas the Parliament and their Ar<g ref="char:EOLhyphen"/>my alſo, are likewiſe inſtruments in Gods hand to accompliſh his own work,<note place="margin">Hab. 2 3.</note> even his great work in Gods due time, <hi>For the viſion is yet for an appointed time, but at the end it ſhall ſpeak, and not lye; though it tarry, waite for it, becauſe it wil ſurely come, it wil not tarry?</hi> No, not ſo much as one day beyond the appointed time.<note place="margin">Exod. 12.41. Heb. 10.38.</note> 
+                  <hi>Now the juſt ſhal live by faith: but if any man draw back</hi> (though unbelief) <hi>my ſoul</hi> (ſaith the Lord) <hi>ſhal have no pleaſure in him.</hi> But let us not cauſe to entreat the Lord to forgive the iniquity of this people, that according unto the greatneſs of his mercy: the wrath may be removed, the nation cured.</p>
+            </sp>
+            <sp>
+               <speaker>Neighbour,</speaker>
+               <p>Seeing we muſt now part. I pray ſhew what goods means ought all, and each of Gods people to uſe, for the removing of Gods Judgments, and the ſetling of a well grounded peace, perſonal and national.</p>
+            </sp>
+            <sp>
+               <speaker>Frien.</speaker>
+               <p>I ſhal conclude this point with ſome ſhort obſerva<g ref="char:EOLhyphen"/>tions out of theſe Scriptures; <hi>Righteouſneſs exalteth a nation, but ſin is a ſhame to any people:</hi>
+                  <note place="margin">Prov. 14.34. Cap. 10.9.</note> 
+                  <hi>He that walketh uprightly walketh ſurely, but he that perverteth his way ſhal be known:</hi> Theſe Scriptures concernes the duty of each particular perſon: Righteouſneſs and uprightneſs go hand in hand and they can<g ref="char:EOLhyphen"/>not be ſevered. Righteouſneſs more generally relateth to men of authority, who ſit at the ſtern of Government to guide the publick in a right courſe, by executing juſtice and judgment to every one in an even and juſt ballance: but as righteouſneſs re<g ref="char:EOLhyphen"/>lates to each particular Chriſtian, being the ſubject in whom it is, it floweth from an inward principle of the holy Ghoſt in a ſanctified heart, and is one of the pillars of Gods Kingdom, which conſiſteth in <hi>righteouſneſs and peace and joy in the holy Ghoſt:</hi>
+                  <note place="margin">Rom. 14 17, 18</note> 
+                  <hi>For he that in theſe things ſerveth Chriſt, is accep<g ref="char:EOLhyphen"/>table, to God, and approved of men:</hi> Here is peace paſſing all underſtanding and acceptation with God: yea this righteouſ<g ref="char:EOLhyphen"/>neſs ſecureth and comforteth us with joy unſpeakable in the holy Ghoſt; ſo powerfully from within, acting that outward<g ref="char:EOLhyphen"/>ly alſo, which is approved of men; who ſeeing our good
+<pb n="21" facs="tcp:161257:11"/>works, even as a light ſhining before them, do glorifie our Fa<g ref="char:EOLhyphen"/>ther which is in heaven: the righteous have a promiſe to be kept in the way, even in Gods way; for <note n="*" place="margin">Prov. 11.3.5, 6</note>
+                  <hi>the integrity of the upright ſhal guid them: yea, the righteouſneſs of the perfect ſhal direct (or rectifie) his way, and ſhal deliver them:</hi> ſuch do love God ſincerely, and have not only a promiſe of preſent grace, but of a future ſupply thereof;<note place="margin">Eph. 6.24. and ver. 5, 6.</note> 
+                  <hi>Grace be with all them that love our Lord Jeſus Chriſt in ſincerity;</hi> ſincerity puts the heart into a righteous frame, and keeps it ſo, ſuch doing all things <hi>in ſingleneſs of heart, as unto Chriſt; and not with eye ſervice, as men-pleaſers, but as the ſervants of Chriſt, doing the will of God from the heart:</hi> Righteous and juſt men are o<g ref="char:EOLhyphen"/>bedient unto all lawful and juſt commands in their ſeveral rela<g ref="char:EOLhyphen"/>tions and places among men; even as all the creatures do readi<g ref="char:EOLhyphen"/>ly obey the word of the Lord. It was the Centurions argu<g ref="char:EOLhyphen"/>ment unto our Lord Jeſus, to command, and his ſervant ſhould be healed, and he gives an inſtance not only from his own duty, but alſo from his own command and their integrity that were under his authority, ſaying, <hi>I am a man under authority,</hi>
+                  <note place="margin">Mat 8 8, 9.</note> 
+                  <hi>ha<g ref="char:EOLhyphen"/>ving ſoldiers under me; and I ſay to this man, go, and he goeth; and to mother, come, and he cometh; and to my ſervant, do this, and he doth it:</hi> And therefore he much more beleeveth that our Lord Jeſus Chriſt, by his ſoveraign authority over all the creatures, having all power in himſelf, might but give the word of command, and he ſhould be obeyed: and therefore he ſaith, <hi>do but ſpeak the word only and my ſervant ſhal be healed:</hi> and it was ſo accordingly unto him: ſo then thoſe, even all thoſe, who are faithful and upright, wil obey the word of Com<g ref="char:EOLhyphen"/>mand in their ſeveral relations wherein God hath placed them, both in reſpect of their duty towards God himſelf, and alſo towards all men. And thus we ſee that he that walketh up<g ref="char:EOLhyphen"/>rightly walketh ſurely: ſuch decline neither to the right hand nor to the left: but he that perverteth his way ſhal be known; God wil diſcover him ſooner or later, if he walketh in hypo<g ref="char:EOLhyphen"/>criſie: but if he fall into open prophaneſs, he diſcovereth him<g ref="char:EOLhyphen"/>ſelf, and <hi>bearing thorns and briers, is rejected,</hi>
+                  <note place="margin">Heb. 6.8.</note> 
+                  <hi>and is high unto curſing, whoſe end is to be burned:</hi> Even as the good tree that bringeth forth good fruit doth inherit the bleſſing; his upright<g ref="char:EOLhyphen"/>neſs
+<pb n="22" facs="tcp:161257:12"/>doth bring forth righteouſneſs alſo: thus righteouſneſs exalteth a Nation, that is, that Nation or Kingdom that is go<g ref="char:EOLhyphen"/>verned uprightly, in righteouſneſs, juſtice and judgment it is ex<g ref="char:EOLhyphen"/>alted: and thus the Judges, who judged <hi>Iſrael</hi> righteouſly, being ſet up immediatly by God, exalted that nation all their days: And ſo did <hi>David,</hi> and <hi>Jehoſhaphat,</hi> and all the good Kings of <hi>Iſrael: (Jehoſhaphat ſet Judges in the Land; and ſaid to the Judges,</hi>
+                  <note place="margin">2 Chro. 14.5, 6, 7.</note> 
+                  <hi>Take heed what ye do; for ye judg not far man, but for the Lord, who is with you in the judgment: Wherefore now let the fear of the Lord be upon you, take beed and do it: for there is no iniquity with the Lord our God, nor respect of perſons, nor taking of gifts:)</hi> And they exalted Iſrael all their days; yea righteouſnes exalteth each perſon and their fa<g ref="char:EOLhyphen"/>mily: we ſee it in <hi>Noah, Abraham, Iſaac, Jacob, Joſeph, Levi, Rahab, Ruth, Mordecay</hi> and <hi>Hester:</hi> So that as all unders and governors, even ſo every one of Gods people among us are to ſhew forth righteouſneſs in their ſeveral Relations &amp; Calling<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> this is the way not only to exaltation, but alſo to have the de<g ref="char:EOLhyphen"/>nomination of righteouſneſs: and ſo it is written, <hi>He that doth righteouſneſs is righteous:</hi>
+                  <note place="margin">1 Joh. 3.7.</note> This is the way to exale this nation, and to ſettle a wel-grounded peace, and to makeall things go wel with us, in this, and the other Kingdoms <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. as it is ſaid unto <hi>Shallum</hi> the ſon of <hi>Joſia, Shall thou reig<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> thou cloſeſt thy ſelf in Cedar?</hi>
+                  <note place="margin">Jer. 22.15, 16.</note> 
+                  <hi>Did not thy father <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> and drink, and do judgment and juſtice, and them <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> wel with him? He judged the cauſe of the poor and needy, them it was wel with him? was not this to know me, ſaith the Lord:</hi> Yea <hi>what doth the Lord require of that,</hi>
+                  <note place="margin">Mich. 6.8.</note> 
+                  <hi>but to do juſtly, to love mercy, and to walk hambly with thy God?</hi> Again, all thoſe that work righteouſneſs are the Seminaries of peace: the fruit of righteouſneſs is ſown in peace of them that make peace: yea, our bleſſed Savior ſaith, <hi>Bleſſed are the peace makers: for they ſhal be called the children of God:</hi>
+                  <note place="margin">Mat. 5.8.</note> That peace that flow<g ref="char:EOLhyphen"/>eth from righteouſneſs is a ſure mark of our adoption, and con<g ref="char:EOLhyphen"/>ſequently of a moſt bleſſed, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and laſting peace unto that perſon or nation: O then, let us henger and thirſt after righte<g ref="char:EOLhyphen"/>ouſneſs, and we ſhal not only be bleſſed, but alſo filled with it; then our righteouſnes wil run down as a mighty ſtream, unto all
+<pb n="23" facs="tcp:161257:12"/>perſons, in all places and rehations: withoutneſpect of perſont, <hi>And the work of right <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ſne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſs ſhal he peace, and the effect of righteouſneſs, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ietneſs, and aſſur<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>de for ever <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+                  <note place="margin">Iſa 32:17.</note> Thus ſhal righteouſneſs exalt our nation But ſin is a ſhame to any people: this is the beſt fruit of ſin, to be aſhamed of it: O therefore take heed that thou art not one of them that have a whoresfore<g ref="char:EOLhyphen"/>head, and refuſe ſo to be aſhamed; all ſuch ſhal become a ſhame and a reproach unto themſelves, and unto men and angels, and before Jeſus Chriſt: ſin is a ſhame unto all or to any people per<g ref="char:EOLhyphen"/>ſonal or national; when he or they continued in ſin, it brought them very low: by ſin all nations joyntly have been over thrown and deſtroyed, as in <hi>Noahs</hi> Flood, Severally, it overthrew <hi>So<g ref="char:EOLhyphen"/>dom</hi> and the Cities about it. Perſonally, not only <hi>Haman, A<g ref="char:EOLhyphen"/>chitophel, Abſalom, Judas</hi> and King <hi>Herod,</hi> but alſo <hi>Achan</hi> and his whole family. O how often it overthrew and deſtroy'd Gods own people, the nation of the Jews. Sin overthrew that mighty monarchy of <hi>Babylon</hi> and all its glory: yea it wil de<g ref="char:EOLhyphen"/>ſtroy all the world of wicked men, and ſpiritual <hi>Babylon</hi> ſhal be quite overthrown by their ſin, and become a perpetual ſhame: <hi>Wherefore come out from among them,</hi>
+                  <note place="margin">2 Cor. 6.17, 18</note> 
+                  <hi>and he y<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>r ate, ſaith the Lord, and touch not the uncle<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>g.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is an unclean thing: it befits not Gods children, who are to be holy, as their Father, which is in heaven, is holy: all unrigh<g ref="char:EOLhyphen"/>teouſneſs is ſin, eſpecially the unrighteouſneſs and cruel ſoul<g ref="char:EOLhyphen"/>murthering ſin of that <hi>ſcaple<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> whore,</hi> who doth alſo ſhed the blood of the Saints, and is therefore moſt unclean: O let us touch no unclean thing: <hi>And I wil receive you, and wil be a Father unto you, and you ſhal be my ſons and daughters, ſaith the Lord Almighty.</hi>
+                  <note place="margin">2 Cor. 7.1.</note> 
+                  <hi>Having therefore theſe promiſes (dearly beloveil) l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t us cleanſe our ſelves from all fil<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſs of the fleſh and ſpirit, perfecting holineſs in the f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> of God:</hi> Yea, let every one of us in particular, ſhew forth our uprightneſs in being examples of righteouſneſs unto each other, in our entire walking with the Lord in all his wayes, in ſoul and body and ſpirit, in our ſeveral places and relations: And then our righteous God,
+<pb n="24" facs="tcp:161257:13"/>according as he hath teſtified unto us, will exalt our na<g ref="char:EOLhyphen"/>tion, and wil ſettle unto us a firm and wel-grounded peace: Thus righteouſneſs ſhal exalt our nation: for he that wal<g ref="char:EOLhyphen"/>keth uprightly, walketh ſurely, <hi>Amen.</hi>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>Gilb. Mabbot.</signed>
+               <date>14<hi rend="sup">o</hi> Octobr. 1647.</date>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
